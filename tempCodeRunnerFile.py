@@ -1,0 +1,1 @@
+user_movies = user_movies.dropna()
